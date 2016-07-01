@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\conn\obj\Debug\conn.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\conn\bin\Debug\conn.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\conn\bin\Debug\conn.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\conn\bin\Debug\CapaDatos.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\conn\bin\Debug\CapaDatos.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\conn\obj\Debug\conn.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\conn\obj\Debug\conn.pdb

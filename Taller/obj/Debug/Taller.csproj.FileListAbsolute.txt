@@ -1,0 +1,48 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\obj\Debug\Taller.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\roslyn\csc.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\roslyn\vbc.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\Taller.dll.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\Taller.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\Taller.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\CapaDatos.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\conn.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\CapaDatos.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\conn.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\obj\Debug\Taller.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Proyectofinales\Taller\obj\Debug\Taller.pdb
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\roslyn\csc.exe
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\roslyn\vbc.exe
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\Taller.dll.config
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\Taller.dll
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\Taller.pdb
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\CapaDatos.dll
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\conn.dll
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\CapaDatos.pdb
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\conn.pdb
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\obj\Debug\Taller.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\obj\Debug\Taller.dll
+C:\Users\Gerardo\Documents\ClavijoSoft2\Taller\obj\Debug\Taller.pdb
